@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-<!--
-**saeed-moradi-98/saeed-moradi-98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I'm a recent computer science graduate from the University of Manitoba, with hands-on experience in blockchains, distributed systems, privacy-preserving techniques, and so on.
 - 🌱 I'm always enthusiastic about solving real-world problems and issues.
 - 👯 I’m looking to collaborate on 
@@ -13,4 +8,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
