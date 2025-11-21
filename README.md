@@ -5,6 +5,6 @@
 <!-- - 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...-->
-- 📫 How to reach me: saeed.moradi.edu@gmail.com
+- 📫 You can always reach out to me via my email address: saeed.moradi.edu@gmail.com
 <!--- 😄 Pronouns: ...-->
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I can tell you what day of the week you were born :)
